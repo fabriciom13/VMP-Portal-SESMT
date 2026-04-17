@@ -1,0 +1,28 @@
+{
+  "hero": {
+    "eyebrow": "Menu Interativo",
+    "title": "**Menu**|SESMT",
+    "sectionLabel": "Sistemas Disponíveis",
+    "footer": "© 2025 FASTECH — Soluções SESMT. Todos os direitos reservados."
+  },
+  "cards": [
+    {
+      "id": "c1",
+      "name": "Sistema de Gestão de Tarefas",
+      "desc": "Plataforma central para gestão, acompanhamento e controle de tarefas do SESMT.",
+      "url": "https://vmp-gest-o-tarefas-sesmt.vercel.app/",
+      "icon": "⚙️",
+      "tag": "Gestão · Tarefas",
+      "color": "#00c2ff"
+    },
+    {
+      "id": "c2",
+      "name": "Mapa de Risco",
+      "desc": "Visualize e gerencie o mapeamento de riscos ocupacionais por área e processo.",
+      "url": "https://vmp-mapa-risco.vercel.app/",
+      "icon": "🗺️",
+      "tag": "Risco · Mapa",
+      "color": "#ff6b35"
+    }
+  ]
+}
