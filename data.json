@@ -23,6 +23,15 @@
       "icon": "🗺️",
       "tag": "Risco · Mapa",
       "color": "#ff6b35"
+    },
+    {
+      "id": "c1776691827767",
+      "name": "Gestão de Acidentes",
+      "desc": "Visualize os acidentes em grafico para elaboração de planos de ação",
+      "url": "https://vmp-gestao-de-acidentes.vercel.app/",
+      "icon": "📌",
+      "tag": "Gestão · Acidentes",
+      "color": "#b66dff"
     }
   ]
 }
