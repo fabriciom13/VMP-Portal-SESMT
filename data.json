@@ -32,6 +32,15 @@
       "icon": "📌",
       "tag": "Gestão · Acidentes",
       "color": "#b66dff"
+    },
+    {
+      "id": "c1776877258124",
+      "name": "Documentos SESMT",
+      "desc": "Em Manutenção",
+      "url": "https://vmp-documentos-sesmt.vercel.app/",
+      "icon": "📌",
+      "tag": "Gestão - Documentos",
+      "color": "#ffd166"
     }
   ]
 }
